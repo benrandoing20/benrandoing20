@@ -9,8 +9,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/NVIDIA-AI%20Applications-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Stanford-AI%20%26%20Biomechanics-8C1515?style=for-the-badge&logo=stanford&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apple-Health%20Technologies-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Duke-BME%20%26%20Music-003366?style=for-the-badge&logo=duke&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apple-Health%20Tech-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Duke-BME-003366?style=for-the-badge&logo=duke&logoColor=white" />
 </p>
 
 <!-- Social Links -->
